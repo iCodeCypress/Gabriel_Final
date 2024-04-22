@@ -1,0 +1,90 @@
+HTML stands for HyperText Markup Language
+    -the skeloton of the website
+
+CSS stands for Cascading Style Sheet
+    -the style of the html (allow you to change the appearence)
+
+Link tag-link 
+    -allow linking html and css files together
+    -located in the head tag
+
+Body Tag - body
+    -the main part of the website
+    -this is where we type in our html codes
+
+Header Tag - h1, h2, h3, h4, h5, h6
+    -smaller the number, bigger the fonts
+    -bolded
+
+Paragraph tag - p
+    -small font
+    -not bolded
+
+Image tag - Img
+        -src stands for source
+        -takes in image links for our files
+
+Anchor tag - a
+    -href stands for hyperlink reference, 
+    - takes in a http link or a file
+
+Divider tag - Div
+    - use as a container for a set of html tags
+
+Unordered List - ul
+
+ctrl + a : it highlights everything
+ctrl + b : it makes the text bolded
+ctrl + c : it copies highlighted text or other object to the clipboard 
+ctrl + d : it creates a new bookmark
+ctrl + e : it applies the center alignment to the selected content
+ctrl + f : it opens a find or search option
+ctrl + g : it summons the go to dialogue box
+ctrl + h : it finds and replaces
+ctrl + i : it italicizes the selected text
+ctrl + j : it aligns the text
+ctrl + k : it can be used to insert a hyperlink
+ctrl + l : it brings the address bar into focus
+ctrl + m : it indents a Paragraph
+ctrl + n : it creates a new document
+ctrl + o : it is used to open images or other file types
+ctrl + p : it brings up the print dialogue box
+ctrl + q : it removes paragraph formatting 
+ctrl + r : it can refresh the page 
+ctrl + s : it saves any changes
+ctrl + u : it underlines the text
+ctrl + v : to paste the copied text
+ctrl + w : it closes the current document
+ctrl + x : it is used to cut the selected section of the text
+ctrl + y : it is used to redo an action
+ctrl + Z : it is used to backspace
+
+
+fos = font-size
+fw  = font-weight: normal;
+ff  = font-family: serif;
+td  = text-decoration
+ta  = text-align
+m   = margin
+ml  = margin-left
+mr  = margin-right
+mt  = margin-top
+mb  = margin-bottom
+p   = padding
+pl  = padding-left
+pr  = padding-right
+pt  = padding-top
+pb  = padding bottom
+w   = width
+h   = hieght
+c   = color
+bc  = background-color
+df  = display: flex;
+jcs = justify-content: start;
+jcc = justify-content: center;
+jce = justify-content: end;
+jcsb= justify-content: space-between;
+aic = align-items: center;
+fld = flex-direction
+dg  = display: grid;
+borr= border-radius
